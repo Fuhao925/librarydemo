@@ -1,0 +1,87 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+/* 在这里可以添加样式 */
+.login-page {
+  max-width: 400px;
+  margin: 0 auto;
+}
+/* 添加样式以保证文本框在标签后面 */
+label {
+  display: block;
+  margin-bottom: 8px;
+}
+/* 确保文本框可以输入 */
+input {
+  width: 100%;
+  padding: 8px;
+  box-sizing: border-box;
+  margin-bottom: 12px;
+}
+.h1{
+		color: white;
+		background-color: cornflowerblue;
+		text-align: center;
+		margin: auto;
+		height: 40px;
+		width: 100%;
+}
+
